@@ -7,3 +7,4 @@ myArray = []	my_array = []
 
  n an element that stores values in the pipes
 array.each do |n|	array.each do |n|
+    my_value = n**2 # this to square n
