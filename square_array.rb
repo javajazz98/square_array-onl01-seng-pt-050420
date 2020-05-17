@@ -1,3 +1,7 @@
 def square_array(array)
-  # your code here
-end
+  # your code here	
+
+
+#create my new array	#create my new array to this assignment
+myArray = []	my_array = []
+
